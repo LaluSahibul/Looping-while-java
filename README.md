@@ -1,5 +1,5 @@
 # Looping-while-java
-Contoh perulangan while pada java
+Contoh perulangan while pada java.
 Disini saya membuat program untuk belajar perulangan pada java.
 Ada 3 perulangan yang sering digunakan
 (while, do while, for).
