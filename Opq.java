@@ -2,7 +2,6 @@ package loop_W;
 import java.util.Scanner;
 public class Opq {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		boolean a=true;
 		String nama;
